@@ -1,0 +1,12 @@
+{
+    "name": "blockchain",
+    "version": "0.0.1",
+    "author": "nedalhy <nedalhy@gmail.com",
+    "description": "simple BlockChain example",
+    "engines": {
+        "node": ">=0.10"
+    },
+    "dependencies": {
+        "crypto-js": "latest"
+    }
+}
